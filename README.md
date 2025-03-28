@@ -18,6 +18,13 @@
 
 ----
 
+- ### Project+ce &#128220;
+
+![image](https://github.com/user-attachments/assets/b0e53172-d57e-483c-b212-51e119e17eab)
+
+----
+
+
 - ### Splunk Core Certified User &#128220;
 
   ![image](https://github.com/user-attachments/assets/a4b20656-55eb-469f-b7ec-c0606a80a9f8)
